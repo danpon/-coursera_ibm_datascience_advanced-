@@ -1,0 +1,25 @@
+Human Activity Recognition Using Smartphones Data Set - Week1 Assignment
+
+
+Try to explain in your words why a process model and architectural decision guidelines are needed in data science projects
+--------------------------------------------------------------------------------------------------------------------------
+
+Process Model ensures the reproducibility of the results and makes the code reusable.
+Architectural decision guidelines allow the design to be open so that suboptimal decisions can be detected, criticized and corrected.
+Both process model and decision guidelines promotes collaboration between all parties involved in the project
+
+
+
+
+Please describe your use case and data set
+--------------------------------------------------------------------------------------------------------------------------
+
+DEMANDE
+Please describe your use case and data set
+
+I'll use the "Human Activity Recognition Using Smartphones Data Set"
+(https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+This dataset was built thanks to experiments carried out with a group of 30 volunteers within an age bracket of 19-48 years.
+Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist.
+
+The aim is to predict the activity performed from the signals measured by the smartphone sensors (accelerometer and gyroscope)

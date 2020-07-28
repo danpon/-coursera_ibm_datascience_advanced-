@@ -1,0 +1,9 @@
+Try to explain in your words why data clensing and feature creation is one of the most important tasks in data science
+------------------------------------------------------------------------------------------------------------------------
+Most of the time raw data can not be  exploited directly.
+To build a model, data must be numeric (a collection of texts may be transformed for instance in a tf-idf matrix).
+Some algorithms can not process categorical variables so these variables should be transformed
+(one-hot encoding being a solution here).
+Missing values should be either discarded or imputed since some ML tools won't work if all values are not present.
+Invalid data can make  predictions totally useless ("garbage in, garbage out").
+Outliers can  be strongly bias results.

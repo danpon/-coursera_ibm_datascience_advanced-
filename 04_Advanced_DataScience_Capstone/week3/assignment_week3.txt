@@ -1,0 +1,7 @@
+Try to explain in your words why you have selected a particular type of machine model to start with
+-----------------------------------------------------------------------------------------------------
+One of the main issue in HAR (Human Activity Recognition) is features selection.
+With traditional ML methods this selection requires human expertise in the a specific field (kinetic signals).
+On the other hand deep learning algorithms, for instance CNN are able to  detect spatial and temporal dependencies in the signals.
+In other words, CNN are able to automatically select the more relevant features in  high dimension datasets.
+This is why we'll use CNN in our capstone project. 
